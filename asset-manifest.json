@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5cf52b37.css",
+    "main.js": "/static/js/main.2336f415.js",
+    "static/media/nature.jpg": "/static/media/nature.a039c7247e3e9fd0941d.jpg",
+    "static/media/Snake.png": "/static/media/Snake.35296d89713ab59cbc72.png",
+    "static/media/myPhoto.jpeg": "/static/media/myPhoto.7286a02d3317cf142ce7.jpeg",
+    "static/media/ToDoList.png": "/static/media/ToDoList.8f06a57329d490cbacbc.png",
+    "static/media/react.png": "/static/media/react.47a490592682112eb463.png",
+    "static/media/Dice.png": "/static/media/Dice.4ffcc59e1be0beaf0b38.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.d026940870fb334920b7.png",
+    "static/media/sass.png": "/static/media/sass.16a97c230bf367f43495.png",
+    "static/media/github.png": "/static/media/github.553c66159c5672f25df6.png",
+    "static/media/vk.png": "/static/media/vk.46a727c40540261a6ad3.png",
+    "static/media/telegram.png": "/static/media/telegram.fac147278d309c688d4a.png",
+    "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/git.png": "/static/media/git.756d5179b55c9ad8343d.png",
+    "static/media/css.png": "/static/media/css.c0fee026daaa689f220c.png",
+    "index.html": "/index.html",
+    "main.5cf52b37.css.map": "/static/css/main.5cf52b37.css.map",
+    "main.2336f415.js.map": "/static/js/main.2336f415.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cf52b37.css",
+    "static/js/main.2336f415.js"
+  ]
+}
